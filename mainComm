@@ -1,0 +1,11 @@
+git clone "Type Repositary URL"
+
+git status
+
+git add . **it means we are telling git to track all files and save
+OR
+git add "Filename.extention"
+
+git commit
+
+git push
